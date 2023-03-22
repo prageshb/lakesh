@@ -1,0 +1,191 @@
+
+
+body{
+    background-color: gray;
+    font-family: Oswald;
+}
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+.me{
+display:block;
+margin-top:-150px;
+margin-left: auto;
+margin-right: 6rem;
+width: 30%;
+}
+
+.main{
+margin:0px;
+background-color: rgb(54, 233, 242);
+width: 100%;
+height:100%;
+
+}
+
+.top{
+background-color:aqua;
+font-family:Oswald;
+font-weight: 600;
+color:rgb(26, 139, 220);
+font-size: 30px;
+padding-left:0px;
+padding-bottom: 20px;
+
+
+}
+
+.about{
+display:inline-flex;
+flex:wrap;
+margin-left:10rem;
+padding-right:50px;
+}
+
+.hobbies{
+display:inline-flex;
+     
+}    
+
+.contact{
+display:inline-flex;
+ padding-left:50px;      
+               
+ }
+
+ .aboutFull{
+margin-top:-250px;
+display:block;
+width: auto;
+background-color:rgb(45, 190, 219)
+
+ }
+
+ .name{
+display:inline-block;
+font-family: Oswald;
+width: 600;
+font-size: 50px;
+padding-bottom:-20px;
+ }
+ .study{
+    margin-top: -30px;
+display:block;
+font-family: Oswald;
+font-size:30px;
+color:aliceblue;
+ }
+
+ .hb{
+    
+    background-color: aqua;
+    font-size:50px;
+    font-weight: 600;
+    text-align:center;
+    margin-top:50px;
+ }
+
+ .hobbiesFull{
+background-color: grey;
+
+ }
+
+ .hobbyimg{
+display:inline-block;
+
+ }
+ .football{
+    margin-left:25px;
+    height:350px;
+    width:350px;
+   border-radius:40px;
+   border:20px;
+   border-bottom:200px;
+   border-style:solid;
+   border-color: rgb(42, 109, 252);
+ }
+ .pubgm{
+    height:350px;
+    width:350px;
+    margin-left: 50px;
+    border-radius:40px;
+    border:20px;
+    border-bottom:200px;
+   border-style:solid;
+   border-color: rgb(42, 109, 252);
+ }
+ .music{
+    height:350px;
+    width:350px;
+    margin-left: 50px;
+    border-radius:40px;
+    border:20px;
+    border-bottom:200px;
+   border-style:solid;
+   border-color: rgb(42, 109, 252);
+ }
+
+ .hobbytxt{
+
+font-size:30px;
+font-weight: 100px;
+ }
+ 
+ .footballtxt{
+    text-align: left;
+    margin-top:-200px;
+    margin-left:40px;
+
+ }
+
+.pubgmtxt{
+    margin-top: -170px;
+    text-align: center;
+    margin-left:2px;
+    
+    
+}
+
+.musictxt{
+    
+    margin-top: -210px;;
+    margin-left:58.3rem;
+}
+
+.cnt{
+    
+    background-color: aqua;
+    font-size:50px;
+    font-weight: 600;
+    text-align:center;
+    margin-top:10rem;
+ }
+
+ .email{
+    text-align: center;
+    font-size:40px;
+    weight:600;
+ }
+
+ 
+
+ .facebook {
+   
+    color:black;
+    margin-left:36rem;
+ }
+
+ .insta {
+    color:black;
+    
+    margin-left:40rem;
+    padding-top: 20px;
+ }
+
+ .gmail {
+   
+    margin-left:4px;
+ }
+
+ .phone {
+    
+    margin-left:4px;
+ }
